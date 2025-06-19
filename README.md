@@ -1,1 +1,1 @@
-https://github.com/KorolenkoDziyana/posmotri-v-okno-fd#
+https://github.com/KorolenkoDziyana/posmotri-v-okno-fd
